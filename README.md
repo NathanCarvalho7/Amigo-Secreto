@@ -1,9 +1,5 @@
 <img width="1752" height="431" alt="Amigo secreto" src="https://github.com/user-attachments/assets/af39c1a2-3aaa-434e-908b-ea767869c670" />
 
-# Amigo Secreto (Secret Friend)
-
-![Capa do projeto](link-da-sua-imagem-de-capa)
-
 ---
 
 ##  Índice
@@ -24,12 +20,12 @@ Esse projeto simples em **JavaScript (app.js) e HTML** permite que você:
 - Sorteie um amigo secreto sem repetição;
 - Reinicie o processo quando todos forem sorteados.
 
----
+----
 
 ##  Status  
 :rocket: Projeto funcional e pronto para uso ou personalização.
 
----
+----
 
 ##  Funcionalidades  
 - Adição de nomes únicos à lista;  
