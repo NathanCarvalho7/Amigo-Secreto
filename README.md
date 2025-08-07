@@ -1,16 +1,70 @@
 <img width="1752" height="431" alt="Amigo secreto" src="https://github.com/user-attachments/assets/af39c1a2-3aaa-434e-908b-ea767869c670" />
 
-# Índice 
-* [Título e Imagem de capa](#Título-e-Imagem-de-capa)
-* [Badges](#badges)
-* [Índice](#índice)
-* [Descrição do Projeto](#descrição-do-projeto)
-* [Status do Projeto](#status-do-Projeto)
-* [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
-* [Acesso ao Projeto](#acesso-ao-projeto)
-* [Tecnologias utilizadas](#tecnologias-utilizadas)
-* [Pessoas Contribuidoras](#pessoas-contribuidoras)
-* [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras)
-* [Licença](#licença)
-* [Conclusão](#conclusão)
+# Amigo Secreto (Secret Friend)
+
+![Capa do projeto](link-da-sua-imagem-de-capa)
+
+---
+
+##  Índice
+1. [Descrição](#descrição)  
+2. [Status](#status)  
+3. [Funcionalidades](#funcionalidades)  
+4. [Demonstração](#demonstração)  
+5. [Como executar](#como-executar)  
+6. [Tecnologias](#tecnologias)  
+7. [Contribuição](#contribuição)  
+8. [Licença](#licença)  
+
+---
+
+##  Descrição  
+Esse projeto simples em **JavaScript (app.js) e HTML** permite que você:
+- Adicione amigos a uma lista;
+- Sorteie um amigo secreto sem repetição;
+- Reinicie o processo quando todos forem sorteados.
+
+---
+
+##  Status  
+:rocket: Projeto funcional e pronto para uso ou personalização.
+
+---
+
+##  Funcionalidades  
+- Adição de nomes únicos à lista;  
+- Sorteio aleatório sem repetir nomes;  
+- Feedback visual (exibe o nome sorteado);  
+- Opção de reiniciar (limpa tudo e começa de novo).  
+
+---
+
+##  Demonstração  
+*Incluir um GIF ou print aqui mostrando o app em ação*
+
+---
+
+##  Como executar  
+1. Clone ou baixe este repositório;  
+2. Abra o arquivo `index.html` no navegador;  
+3. Pronto! Já pode adicionar amigos, sortear e reiniciar.
+
+---
+
+##  Tecnologias  
+- **JavaScript** (DOM, arrays, event handlers)  
+- **HTML** (estrutura da página)  
+
+---
+
+##  Contribuição  
+Se quiser sugerir melhorias ou novas funcionalidades, fique à vontade para abrir uma issue ou enviar um PR!  
+
+---
+
+##  Licença  
+Este projeto está sob a [MIT License](link-da-licença), permitindo uso, modificação e distribuição.
+
+---
+
 
