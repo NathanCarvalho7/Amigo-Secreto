@@ -64,7 +64,7 @@ Esse projeto simples em **JavaScript (app.js) e HTML** permite que você:
 
 ## Autor
 
-| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Camila Fernanda Alves</sub>](https://github.com/camilafernanda) | |
+| [<img src="https://github.com/seuusuario.png" width=115><br><sub>Seu Nome</sub>](https://github.com/NathanCarvalho7) |
 | :---: |
 
 ##  Contribuição  
