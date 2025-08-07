@@ -44,7 +44,8 @@ Esse projeto simples em **JavaScript (app.js) e HTML** permite que você:
 ---
 
 ##  Demonstração  
-*Incluir um GIF ou print aqui mostrando o app em ação*
+![Jogo do amigo secreto](https://github.com/user-attachments/assets/b66f6af5-f036-42f6-98e0-06cb60c60824)
+ 
 
 ---
 
