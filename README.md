@@ -44,8 +44,8 @@ Esse projeto simples em **JavaScript (app.js) e HTML** permite que você:
 ---
 
 ##  Demonstração  
-![Jogo do amigo secreto](https://github.com/user-attachments/assets/b66f6af5-f036-42f6-98e0-06cb60c60824)
- 
+![Jogo-do-amigo-secreto](https://github.com/user-attachments/assets/82e19b04-5f08-4ca4-85dc-0a781f88ea82)
+
 
 ---
 
