@@ -64,8 +64,8 @@ Esse projeto simples em **JavaScript (app.js) e HTML** permite que você:
 
 ## Autor
 
-| [<img src="https://github.com/seuusuario.png" width=115><br><sub>Nathan</sub>](https://github.com/NathanCarvalho7) |
-| :---: |
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Nathan Carvalho</sub>](https://github.com/NathanCarvalho7) |
+| :---: | 
 
 ##  Contribuição  
 Se quiser sugerir melhorias ou novas funcionalidades, fique à vontade para abrir uma issue ou enviar um PR!  
