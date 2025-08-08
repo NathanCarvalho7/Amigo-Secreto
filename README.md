@@ -64,8 +64,9 @@ Esse projeto simples em **JavaScript (app.js) e HTML** permite que você:
 
 ## Autor
 
-|![IMAGEM PARA PERFIL (IA) CINZA1] src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Nathan Carvalho</sub>](https://github.com/NathanCarvalho7) |
-| :---: | 
+| [<img src="https://github.com/user1.png" width=115><br><sub>Nome 1</sub>](https://github.com/user1) | [<img src="https://github.com/user2.png" width=115><br><sub>Nome 2</sub>](https://github.com/user2) |
+| :---: | :---: |
+
 
 ##  Contribuição  
 Se quiser sugerir melhorias ou novas funcionalidades, fique à vontade para abrir uma issue ou enviar um PR!  
