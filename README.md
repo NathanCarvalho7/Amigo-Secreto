@@ -64,8 +64,9 @@ Esse projeto simples em **JavaScript (app.js) e HTML** permite que você:
 
 ## Autor
 
-| [<img src="https://github.com/user1.png" width=115><br><sub>Nome 1</sub>](https://github.com/user1) | [<img src="https://github.com/user2.png" width=115><br><sub>Nome 2</sub>](https://github.com/user2) |
-| :---: | :---: |
+| [<img src="https://github.com/NathanCarvalho7.png" width=115><br><sub>Seu Nome</sub>](https://github.com/NathanCarvalho7) |
+| :---: |
+
 
 
 ##  Contribuição  
