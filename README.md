@@ -64,7 +64,7 @@ Esse projeto simples em **JavaScript (app.js) e HTML** permite que você:
 
 ## Autor
 
-| [<img src="https://github.com/NathanCarvalho7.png" width=115><br><sub>Seu Nome</sub>](https://github.com/NathanCarvalho7) |
+| [<img src="https://github.com/NathanCarvalho7.png" width=115><br><sub>Nathan Carvalho</sub>](https://github.com/NathanCarvalho7) |
 | :---: |
 
 
